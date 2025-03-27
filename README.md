@@ -2,7 +2,7 @@
 
 # Zung
 
-## _क्या आपके कोड मे जंग है?_
+## _क्या आपकी संकेत-लिपि मे ज़ंग है?_
 
 Would you like to try something different, in an exotic and funny-sounding language?
 Would you want to bring some Hindi touch to your programs?
